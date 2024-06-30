@@ -14,9 +14,14 @@ An organized specialist with 2+ years of experience driving growth through devel
 - **Development Tools**: Docker, Git, Figma
 - **Methodologies**: Scrum
 
-## Code Examples
-- **GitHub**: [github.com/dashinevi](https://github.com/dashinevi)
-- **CodeWars**: [codewars.com/users/dashinevi/stats](https://www.codewars.com/users/dashinevi/stats)
+## Code Example
+```python
+def even_or_odd(number):
+    if number % 2 == 0:
+        return "Even"
+    else:
+        return "Odd"
+```
 
 ## Experience
 - **RS School JS/FE Pre-School 2024Q2**
